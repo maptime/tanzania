@@ -1,10 +1,10 @@
-baseurl: /starter
+baseurl: /tanzania
 permalink: pretty
 markdown: kramdown
 paginate: 5
 repo: starter
 github_org: maptime
 maptime:
-  chapter: Meetup name
-  twitter: YourName
+  chapter: Maptime Tanzania
+  twitter: MaptimeTZ
   #disqus: YOUR DISQUS USERNAME
