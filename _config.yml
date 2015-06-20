@@ -2,7 +2,7 @@ baseurl: /tanzania
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: tanzania
 github_org: maptime
 maptime:
   chapter: Maptime Tanzania
