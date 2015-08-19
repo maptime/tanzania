@@ -1,7 +1,7 @@
 ---
 layout: event
 category: event
-title: "August Maptime: Introduction to OpenStreetMap for Humanitarian Response"
+title: "August Maptime: Map My Hometown On OpenStreetMap and Learn Mapillary"
 rsvp: https://www.eventbrite.com/e/mapping-party-map-my-hometown-on-osm-tickets-18170203568
 ---
 
